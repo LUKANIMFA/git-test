@@ -1,22 +1,25 @@
 # git-test
 my first GITHUB repo!
 hello Odin
-item
-   <li>Item 1</li>
-   <li>Item 2</li>
-   <li>Item 3</li>
-</ul>
 
-Odin- links-and-images
-index.html
+text formatting
+<html>
+   <head>
+      <title> first page </title>
+   </head>
+   </boby>
+      <p> this is regular text </p>
+      <p><b>bold text </big></p>
+      <p><i> italictext </i><p>
+      <p><small> small text </small></p>
+      <p><strong>strongtext</strong></p>
+      <p> subscripted text </sub></p>
+      <p> superscripted text </sup></p>
+      <p><del>inserted text </ins></p>
+      <p> <del deleted text </del></p>
+      </body>
+   </html>
 
-<h1> Homepage</h1>
-
-
-<a>click me</a>
-< a href="https: www.theodinproject.com/about"> click me</a>
-
-<h1> hello </h1>
 
 
 
