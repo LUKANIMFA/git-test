@@ -1,0 +1,68 @@
+div.bold-text{
+    font-weight: 700;
+}
+
+*{
+    color:purple;
+}
+
+<!-- indiex.html -->
+
+<div>Hello, World!</div>
+<div>Hello again!</div>
+<p>Hi . . .</p>
+<div>OKay,bye.</div>
+
+/* styles.css  */
+
+div{
+    color:  white;
+}
+
+<!-- index. html -->
+
+<div class ="alert-text">
+please agree to our terms of service.
+</div>
+
+/* <styles class="css"></styles>
+
+.alert-text{
+  color:red;
+}
+
+<!--index.html-->
+
+<div id="title">my Awesome 90's page</div>
+
+/* style.css */
+
+#title {
+  background-color: red;
+}
+
+.read {
+    color:white;
+    bacground-color:black;
+}
+    /* several unique declaration
+{
+
+    .unread {
+        color:white;
+        background-color: black;
+        /* several unique declarations */
+
+    }
+}
+ 
+
+
+
+
+
+
+
+
+
+
