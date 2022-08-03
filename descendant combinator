@@ -1,0 +1,18 @@
+<!--index.html -->
+
+<div class="ancestor"><!--A-->
+    <div class="content"><!--B-->
+      <div class="contents"><!--C-->
+      </div>
+      </div>
+    </div>
+
+<div class="contents"> </div> <!-- D -->
+
+ /* styles.css */
+
+ .ancestor .contents {
+    /* some declaration */
+ }
+
+ 

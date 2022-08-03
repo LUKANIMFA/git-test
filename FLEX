@@ -1,0 +1,26 @@
+ <div class="flex-container">
+    <div class="one"></div>
+    <div class="two"></div>
+    <div class="three"></div>
+ </div>
+
+ .container{
+    <background:lightblus;
+    padding: 16px;
+    board:4px solid blus;
+    gap :8px;
+    display: flex;
+ }
+
+ .iterm{
+    background peachpuff;
+    boarder: 4px sold salmon;
+    hight: 48px;
+    flex: 1;
+    padding: 4px;
+ }
+
+ div {
+    flex: 0 1 0%;
+ }
+   

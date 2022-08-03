@@ -1,0 +1,21 @@
+<head>
+    <style>
+        div{
+            color:white;
+            background-color:black;
+        }
+
+        p{
+            color: red;
+        }
+    </style>
+    </head>
+    <body>...</body>
+
+    inline
+
+    <body>
+        <div style="color: white; background-color: black;">...</div>
+    </body>
+
+    

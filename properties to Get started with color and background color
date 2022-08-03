@@ -1,0 +1,68 @@
+p {
+    /* hex example: */
+    color: #1100ff;
+    /* reg example: */
+    color: reg(100,0 127);
+    /* hsl example: */
+    color: hsl(15,82,56%);
+}
+
+img {
+    height:auto;
+    width:500px;
+}
+
+ <!-- index.html -->
+
+ <div clas="main">
+   <div class="List subsection"></div>
+ </div>
+
+ /* rule 1 */
+ .subsection {
+    color: blus;
+ }
+
+ /* rule 2 */
+ .main .list {
+    color: red;
+ }
+
+ /* rule 1 */
+ #subsection {
+    background-color: yellow;
+    color: blue;
+    {
+
+
+ /* rule 2 */
+ #subsection .main .list {
+    color: red;
+ }
+
+ /* rule 1 */
+ .class.second-class {
+    font: size 12px;
+ }
+
+ /* rule 2 */
+ .color .second-class {
+    font: size 24px;
+ }
+
+ /* rule 1 */
+ * {
+   color: black;
+ }
+
+ /* rule 2 */
+ h1 {
+    color: orange;
+ }
+
+ 
+
+
+
+
+

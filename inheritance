@@ -1,0 +1,26 @@
+ <-- index.html -->
+
+ <div id="parent">
+   <div class="child"><div>
+ </div>
+
+ /* styles.css */
+
+ #parent {
+    color: red;
+ }
+ .child {
+    color: blus;
+ }
+
+ /* styles.css */
+ .alert {
+    color: red;
+ }
+
+ .warning {
+    color: yellow;
+ }
+
+
+ 
