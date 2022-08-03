@@ -1,0 +1,37 @@
+.read,
+.unread {
+    color:white;
+    background-color:black;
+}
+
+.read {
+    /* several unique declarations */
+}
+
+.unread {
+    /* several unique declaration */
+}
+
+chaining slectors
+<div>
+   <div class="subsection header">Later posts</div>
+   <p class="subsection preview">This is where a preview for a post might go.</p>
+</div>
+
+.subsection.header{
+    color: red;
+}
+
+<div>
+    <div class="subsection header">Latest posts</div>
+    <p class="subsection" id="preview">This is where a preview for a post might go</p>
+</div>
+
+.subsection.header {
+    color: red;
+}
+.subsection#preview{
+    color: blue;
+}
+
+
